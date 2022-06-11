@@ -1,1 +1,1 @@
-# URLshortener
+Usage: python short_url.py
